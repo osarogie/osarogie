@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @osarogie
 - 👀 I’m interested in Javascript, Kotlin, Ruby and Rust
-- 🌱 I’m currently learning Solana Blockchain Development and Prompt-based programming with Deep Learning
+- 🌱 I’m currently learning Solana Blockchain Development and Prompt programming with Deep Learning
 - 💞️ I’m looking to collaborate on Solana projects
 - 📫 You can reach me on Twitter [@osaroogie](https://twitter.com/osaroogie)
 
